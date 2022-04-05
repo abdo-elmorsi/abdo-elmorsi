@@ -37,6 +37,14 @@
       </td>
     </tr>
     <tr valign="top">
+           <td width="25%" align="center">
+        <span>Bootstrap 5</span><br><br><br>
+        <img height="64px" src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Tailwind CSS</span><br><br><br>
+        <img height="64px" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg">
+      </td>
       <td width="25%" align="center">
         <span><b>Sass</b></span><br><br><br>
         <img height="64px" src="https://www.pngkit.com/png/detail/377-3771972_sass.png">
@@ -45,20 +53,8 @@
         <span>𝗚𝗶𝘁, Github & Gitlab</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
     </tr>
     <tr>
-      <td width="25%" align="center">
-        <span>Bootstrap 5</span><br><br><br>
-        <img height="64px" src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Tailwind CSS</span><br><br><br>
-        <img height="64px" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg">
-      </td>
       <td width="25%" align="center">
         <span>Reactjs</span><br><br><br>
         <img height="64px" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg">
@@ -70,6 +66,10 @@
       <td width="25%" align="center">
         <span>Firebase</span><br><br><br>
         <img height="64px" src="https://brandslogos.com/wp-content/uploads/images/large/firebase-logo.png">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
   </tbody>
