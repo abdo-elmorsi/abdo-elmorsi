@@ -85,8 +85,8 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsingh08prashant" />
-<img src="https://komarev.com/ghpvc/?username=singh08prashant" alt="singh08prashant" />
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbdo2711-coder" />
+<img src="https://komarev.com/ghpvc/?username=Abdo2711-coder" alt="singh08prashant" />
 
 </p>
 <i>Follow me:</i><br>
