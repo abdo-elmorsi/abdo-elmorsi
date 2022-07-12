@@ -71,10 +71,6 @@
         <span>Firebase</span><br><br><br>
         <img height="64px" src="https://brandslogos.com/wp-content/uploads/images/large/firebase-logo.png">
       </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
     </tr>
   </tbody>
 </table>
@@ -96,7 +92,7 @@
 <i>Follow me:</i><br>
 <a href="https://www.linkedin.com/in/abdelrahman-elmorsy-163263205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/profile.php?id=100011155869257" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://api.whatsapp.com/send?phone=201019084872&text=السلام عليكم"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201090770686&text=Taha_Abdelmoneim" alt="Facebook"></a>
+<a href="https://api.whatsapp.com/send?phone=201019084872&text=السلام عليكم"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201019084872&text=Abdelrahman_Ahmed" alt="Facebook"></a>
 
-⭐ From [Abdelrahman_Elmorsy](https://github.com/Abdo2711-coder)
+⭐ From [Abdelrahman_Elmorsy](https://elmorsy.vercel.app/)
 
