@@ -6,7 +6,7 @@
 </p>
 </div>
 <p align ="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abdo2711-coder&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
+<img src="https://github-readme-stats.vercel.app/api?username=abdo-elmorsi&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 </p>
 
 
@@ -85,14 +85,14 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbdo2711-coder" />
-<img src="https://komarev.com/ghpvc/?username=Abdo2711-coder" alt="singh08prashant" />
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fabdo-elmorsi" />
+<img src="https://komarev.com/ghpvc/?username=abdo-elmorsi" alt="singh08prashant" />
 
 </p>
 <i>Follow me:</i><br>
-<a href="https://www.linkedin.com/in/abdelrahman-elmorsy-163263205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/abdelrahman-a-morsi-163263205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/profile.php?id=100011155869257" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://api.whatsapp.com/send?phone=201019084872&text=السلام عليكم"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201019084872&text=Abdelrahman_Ahmed" alt="Facebook"></a>
 
-⭐ From [Abdelrahman_Elmorsy](https://elmorsy.vercel.app/)
+⭐ From [Abdelrahman_Elmorsi](https://elmorsi.vercel.app/)
 
