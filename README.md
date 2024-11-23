@@ -4,7 +4,7 @@
     </h1>
     <h2><b>console.log('Hello World') 🌍</b></h2>
     <p>
-        <img src="[38302e676966](https://avatars.githubusercontent.com/u/83051465?s=400&u=2474104af569cc9ad7ade2cf97d81859f297eebc&v=4)" height="350" width="350" alt="Profile Image">
+        <img src="https://avatars.githubusercontent.com/u/83051465?s=400&u=2474104af569cc9ad7ade2cf97d81859f297eebc&v=4" height="350" width="350" alt="Profile Image">
     </p>
 </div>
 
