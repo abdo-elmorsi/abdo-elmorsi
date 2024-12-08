@@ -72,6 +72,24 @@
                 <img height="64" src="https://brandslogos.com/wp-content/uploads/images/large/firebase-logo.png" alt="Firebase">
             </td>
         </tr>
+        <tr>
+            <td>
+                <span>TypeScript</span><br>
+                <img height="64" src="https://brandslogos.com/wp-content/uploads/images/large/typescript-logo.svg" alt="TypeScript">
+            </td>
+            <td>
+                <span>Jest</span><br>
+                <img height="64" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Jest_logo_with_transparent_background.png" alt="Jest">
+            </td>
+            <td>
+                <span>React Router</span><br>
+                <img height="64" src="https://reactrouter.com/logo-og.png" alt="React Router">
+            </td>
+            <td>
+                <span>Storybook</span><br>
+                <img height="64" src="https://storybook.js.org/images/brand/logo.png" alt="Storybook">
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -87,10 +105,9 @@
     <a href="https://www.linkedin.com/in/abdelrahman-a-morsi-163263205/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-        <a href="mailto:abdelrahmandiv@gmail.com">
-            <img src="https://camo.githubusercontent.com/011199dc548eeb28ea91107f0362df182280c88abd3681ff7c1c4358d0b2e36b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d7265642e7376673f266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"     
-               alt="gmai" data-canonical-src="https://img.shields.io/badge/Gmail-red.svg?&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
-        </a>
+    <a href="mailto:abdelrahmandiv@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-red.svg?&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
     <a href="https://www.facebook.com/profile.php?id=100011155869257" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
     </a>
