@@ -77,18 +77,6 @@
                 <span>TypeScript</span><br>
                 <img height="64" src="https://brandslogos.com/wp-content/uploads/images/large/typescript-logo.svg" alt="TypeScript">
             </td>
-            <td>
-                <span>Jest</span><br>
-                <img height="64" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Jest_logo_with_transparent_background.png" alt="Jest">
-            </td>
-            <td>
-                <span>React Router</span><br>
-                <img height="64" src="https://reactrouter.com/logo-og.png" alt="React Router">
-            </td>
-            <td>
-                <span>Storybook</span><br>
-                <img height="64" src="https://storybook.js.org/images/brand/logo.png" alt="Storybook">
-            </td>
         </tr>
     </tbody>
 </table>
