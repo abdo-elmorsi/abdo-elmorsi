@@ -87,6 +87,10 @@
     <a href="https://www.linkedin.com/in/abdelrahman-a-morsi-163263205/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
+        <a href="mailto:abdelrahmandiv@gmail.com">
+            <img src="https://camo.githubusercontent.com/011199dc548eeb28ea91107f0362df182280c88abd3681ff7c1c4358d0b2e36b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d7265642e7376673f266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"     
+               alt="gmai" data-canonical-src="https://img.shields.io/badge/Gmail-red.svg?&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+        </a>
     <a href="https://www.facebook.com/profile.php?id=100011155869257" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
     </a>
@@ -95,4 +99,4 @@
     </a>
 </p>
 
-<p style="text-align: center;">⭐ From <a href="https://elmorsi.vercel.app/">Abdelrahman_Elmorsi</a></p>
+<p style="text-align: center;">⭐ From <a href="https://elmorsi.vercel.app/">Abdelrahman Elmorsi</a></p>
