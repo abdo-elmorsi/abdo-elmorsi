@@ -75,7 +75,7 @@
         <tr>
             <td>
                 <span>TypeScript</span><br>
-                <img height="64" src="https://brandslogos.com/wp-content/uploads/images/large/typescript-logo.svg" alt="TypeScript">
+                <img height="64" src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text.png" alt="TypeScript">
             </td>
         </tr>
     </tbody>
