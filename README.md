@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 100%;"
 			src="https://github-profile-trophy.vercel.app/?username=abdo-elmorsi" alt="abdo-elmorsi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abdo_elmorsii" target="blank"><img
+<p align="left"> <a href="https://twitter.com/abdo_elmorsii" target="_blank"><img
 			src="https://img.shields.io/twitter/follow/abdo_elmorsii?logo=twitter&style=for-the-badge"
 			alt="abdo_elmorsii" /></a> </p>
 
@@ -31,19 +31,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://twitter.com/abdo_elmorsii" target="blank"><img align="center"
+	<a href="https://twitter.com/abdo_elmorsii" target="_blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
 			alt="abdo_elmorsii" height="30" width="40" /></a>
-	<a href="https://linkedin.com/in/abdelrahman-a-morsi-163263205" target="blank"><img align="center"
+	<a href="https://linkedin.com/in/abdelrahman-a-morsi-163263205" target="_blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 			alt="abdelrahman-a-morsi-163263205" height="30" width="40" /></a>
-	<a href="https://fb.com/abdoelmorsii" target="blank"><img align="center"
+	<a href="https://fb.com/abdoelmorsii" target="_blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
 			alt="abdoelmorsii" height="30" width="40" /></a>
-	<a href="https://instagram.com/abdoelmorsii" target="blank"><img align="center"
+	<a href="https://instagram.com/abdoelmorsii" target="_blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
 			alt="abdoelmorsii" height="30" width="40" /></a>
-	<a href="https://www.leetcode.com/abdo-elmorsi" target="blank"><img align="center"
+	<a href="https://www.leetcode.com/abdo-elmorsi" target="_blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
 			alt="abdo-elmorsi" height="30" width="40" /></a>
 </p>
