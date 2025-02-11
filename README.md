@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Elmorsi</h1>
-<h3 align="center">I'm an experienced web and mobile developer based in Cairo, Egypt. My expertise includes React.js,
-	Next.js, Node.js, Express, MongoDB, and React Native. I have a strong track record of building high-quality,
-	user-friendly web and mobile applications. I'm passionate about creating digital experiences that engage users and
-	drive business success. I'm constantly learning to stay up-to-date with the latest technologies. I'm now seeking a
-	new challenge where I can apply my full-stack skills to elevate the user experience.</h3>
+<h3 align="center">I am a Full-Stack Web and Mobile Developer with 4+ years of experience in building scalable, user-friendly applications using React.js, Next.js, Node.js, Express, MongoDB, and React Native. I specialize in creating high-performance systems that streamline workflows and deliver exceptional user experiences. My expertise includes front-end development, state management, API integration, and cross-platform mobile app development. Passionate about solving complex problems and staying ahead in the industry, I am seeking a challenging role to leverage my skills and drive innovation.</h3>
 
 <p align="left"> <img loading="eager"
 		src="https://komarev.com/ghpvc/?username=abdo-elmorsi&label=Profile%20views&color=0e75b6&style=flat"
