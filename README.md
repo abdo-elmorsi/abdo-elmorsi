@@ -18,7 +18,7 @@ I’m a results-driven **Frontend & Full Stack Developer** with **4+ years of ex
 ---
 
 ### 🔭 Current Work & Learning
-- Building **[Easier](https://easier-2.vercel.app)** – a web application for [short description here].  
+- Building **[Easier](https://easier-2.vercel.app)** – a web application for comprehensive web application designed to help tower managers efficiently oversee towers, flats, and financial records. Key features include:.  
 - Exploring **React Native** for cross-platform mobile development.  
 
 ---
