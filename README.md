@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Elmorsi</h1>
-<h3 align="center">I’m a results-driven Front-End Developer with over 4 years of experience building fast and scalable web applications using React.js and Next.js. I specialize in responsive UIs, performance optimization, and clean, maintainable code. I also have solid experience with React Native for cross-platform mobile apps and a working knowledge of Node.js, Express, and MongoDB, enabling effective collaboration on full-stack projects. Passionate about modern development practices and continuous growth, I’m seeking a role where I can contribute to impactful products and innovative teams.</h3>
+<h3 align="center">I’m a results-driven Frontend & Full Stack Developer with 4+ years of experience building fast, scalable, and user-friendly applications.
+
+💻 Specialized in React.js, Next.js, and React Native for creating responsive and high-performance web & mobile apps.
+⚡ Experienced in Node.js, Express, and MongoDB for full-stack development, enabling seamless collaboration across projects.
+🚀 Passionate about performance optimization, clean code, and modern development practices.
+
+I enjoy working with innovative teams to create impactful products. Currently open to opportunities as a Frontend Developer | React Developer | Full Stack Engineer where I can contribute to growth and success.
+
+📬 Let’s connect if you’re looking for someone to transform ideas into scalable solutions.</h3>
 
 <p align="left"> <img loading="eager"
 		src="https://komarev.com/ghpvc/?username=abdo-elmorsi&label=Profile%20views&color=0e75b6&style=flat"
