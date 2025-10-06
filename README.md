@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me  
-I’m a results-driven **Frontend & Full Stack Developer** with **4+ years of experience** building fast, scalable, and user-friendly applications.  
+I’m a results-driven **Frontend & Full Stack Developer** with **5+ years of experience** building fast, scalable, and user-friendly applications.  
 
 - 💻 Specialized in **React.js, Next.js, and React Native** for creating responsive and high-performance web & mobile apps.  
 - ⚡ Skilled in **Node.js, Express, and MongoDB** for full-stack development, ensuring seamless API integrations.  
