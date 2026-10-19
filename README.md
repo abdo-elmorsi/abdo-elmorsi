@@ -1,211 +1,172 @@
 # 👋 Hi, I'm Abdelrahman Elmorsi
 
-### Full Stack Engineer | React • Next.js • NestJS • SaaS Architecture
+### Senior Software Engineer | React • Next.js • Node.js • NestJS
 
-I’m a **Full Stack Engineer with 5+ years of experience** building scalable web and mobile applications.
+I’m a **Senior Software Engineer with 5+ years of experience** building scalable web applications, enterprise platforms, and production-ready SaaS products.
 
-I specialize in **React, Next.js, TypeScript, NestJS, PostgreSQL, and modern SaaS architectures**, with strong experience building production-grade systems focused on **performance, maintainability, and long-term scalability**.
+My core expertise is in **React, Next.js, TypeScript, Node.js, and NestJS**, with a strong focus on frontend architecture, backend development, API design, and performance optimization.
 
-Currently building enterprise-level ERP systems and multi-tenant SaaS platforms.
+I’m currently building **Ackura ERP**, a multi-tenant SaaS platform designed to help businesses manage their operations through modular, scalable, and maintainable enterprise software.
 
----
-
-## 🚀 About Me
-
-* 💻 5+ years building production web applications
-* ⚡ Strong expertise in React.js & Next.js ecosystem
-* 🔥 Building scalable backend systems using Node.js & NestJS
-* 🏗️ Experienced in enterprise SaaS and multi-tenant architecture
-* 📱 React Native experience for cross-platform mobile apps
-* 🎯 Focused on clean architecture, reusable systems, and performance optimization
+- 🌐 Portfolio: [elmorsi.vercel.app](https://elmorsi.vercel.app)
+- 💼 Focus: Full-Stack JavaScript, SaaS Architecture & Enterprise Applications
+- 🚀 Currently building: Multi-tenant ERP systems with Next.js and NestJS
+- 📍 Based in Egypt | Open to global opportunities
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I Do
 
-### Frontend
+- Build scalable frontend applications with **React and Next.js**
+- Design modular backend systems using **Node.js and NestJS**
+- Develop multi-tenant SaaS platforms and enterprise applications
+- Architect reusable component libraries and frontend systems
+- Design REST APIs, authentication flows, and role-based permissions
+- Optimize application performance, loading times, and Core Web Vitals
+- Work with relational databases, caching, queues, and cloud infrastructure
 
-* React.js
-* Next.js
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* Redux / Zustand
-* SWR
-* React Query
+---
 
-### Backend
+## 🛠️ Tech Stack
 
-* Node.js
-* NestJS
-* Express.js
-* REST APIs
-* Authentication & Authorization
-* RBAC Permission Systems
-* Webhooks
+**Frontend**
 
-### Database
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat)
 
-* PostgreSQL
-* MongoDB
-* TypeORM
-* Prisma
+**Backend**
 
-### Infrastructure & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-* Docker
-* AWS S3
-* Git & GitHub
-* Redis
-* Postman
-* Vercel
-* Linux
+**Databases & Data Access**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
 ## 🔥 Featured Projects
 
-# 🚀 Ackura ERP
+### 🚀 Ackura ERP
 
-Enterprise SaaS ERP platform designed for modern businesses.
+**Enterprise Resource Planning | Multi-Tenant SaaS**
 
-Modules include:
+A modular ERP platform built to support business operations across finance, inventory, human resources, retail, and more.
 
-* Accounting
-* HR Management
-* Inventory Management
-* POS System
-* Logistics
-* Asset Management
-* Multi Branch Operations
-* Multi Currency Support
+**Key areas of development:**
+- Multi-tenant SaaS architecture with tenant isolation
+- Accounting and financial management workflows
+- Inventory, POS, HR, and asset management modules
+- Role-based access control and granular permissions
+- Multi-branch and multi-currency operations
+- REST API integrations and background processing
+- Docker-based deployments and AWS infrastructure
 
-Architecture:
-
-* Multi Tenant SaaS
-* Modular Monolith Architecture
-* RBAC Permission System
-* Accounting Engine
-* Document Posting Engine
-* AWS File Storage
-
-Tech Stack:
-
-* Next.js 15
-* React 19
-* NestJS
-* PostgreSQL
-* TypeORM
-* Docker
-* AWS
+**Tech Stack:** Next.js, React, NestJS, PostgreSQL, TypeORM, Redis, Docker, AWS
 
 ---
 
-# 🏢 Easiser
+### 🏢 Easiser
 
-Tower Management System for managing buildings, apartments, and financial operations.
+**Tower & Property Management System**
 
-Features:
+A business management application for handling building operations, apartments, tenants, and financial activities.
 
-* Property Management
-* Tenant Management
-* Payment Tracking
-* Dashboard & Reports
+**Key features:**
+- Property and tenant management
+- Payment tracking and financial records
+- Administrative dashboards and reports
 
-Stack:
-
-* React
-* Next.js
-* Node.js
-* MongoDB
+**Tech Stack:** React, Next.js, Node.js, MongoDB
 
 ---
 
-# 📱 Mobile Applications
+### 📱 React Native Applications
 
-Cross-platform mobile applications built using React Native.
+Cross-platform mobile applications built to support business workflows and utility use cases.
 
-Projects include:
+**Areas of development:**
+- QR code scanning
+- Business and operational applications
+- Mobile interfaces and API integration
 
-* QR Scanner Applications
-* Production Business Apps
-* Utility Mobile Applications
-
----
-
-## ⚙ Engineering Focus
-
-I enjoy building systems focused on:
-
-* Scalable Frontend Architecture
-* Enterprise SaaS Platforms
-* Multi Tenant Systems
-* API Design
-* Performance Optimization
-* Authentication Systems
-* Permission & Role Based Access Control
-* Reusable Component Architecture
-* Clean Architecture
-* Large Scale System Design
+**Tech Stack:** React Native, JavaScript, REST APIs
 
 ---
 
-## 💼 Experience
+## 🏗️ Engineering Principles
 
-### Full Stack Developer at V 4 Technology
+I believe good software engineering goes beyond implementing features. I focus on building systems that remain reliable and maintainable as they grow.
 
-Current Role
+- **Architecture:** Modular systems, clear boundaries, and separation of concerns
+- **Scalability:** Multi-tenant design and efficient data access
+- **Performance:** Rendering strategies, caching, and Core Web Vitals
+- **Security:** Authentication, authorization, and tenant isolation
+- **Maintainability:** Reusable components, consistent conventions, and readable code
+- **Reliability:** Validation, error handling, testing, and production monitoring
 
-Responsibilities:
+---
 
-* Building scalable frontend applications using Next.js
-* Developing backend APIs using NestJS and Node.js
-* Designing reusable component systems
-* Working on enterprise ERP architecture
-* Improving performance and maintainability of production systems
-* Building mobile applications with React Native
+## 💼 Professional Experience
+
+### Senior Front End Developer — V For Technology
+*2025 – Present*
+
+- Build scalable frontend applications using React, Next.js, and TypeScript
+- Develop reusable UI components and shared design systems
+- Implement micro-frontend architectures for SaaS and e-commerce applications
+- Improve application performance and Core Web Vitals
+- Collaborate on API contracts and frontend-backend integration
+- Mentor junior developers and contribute to engineering standards
+
+### ERP Development — Infinity Jewellery
+*2022 – 2025 · Part-time*
+
+- Develop and maintain ERP functionality for jewelry business operations
+- Support inventory workflows and high-volume daily transactions
+- Improve operational efficiency through software automation
+- Maintain reliable business workflows across core ERP features
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdo-elmorsi\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-elmorsi\&layout=compact)
-
----
-
-## 🌍 Connect With Me
-
-* Portfolio → https://elmorsi.vercel.app
-* GitHub → https://github.com/abdo-elmorsi
-* LinkedIn → https://linkedin.com/in/abdelrahman-a-morsi-163263205
-* Email → [abdelrahmandiv@gmail.com](mailto:abdelrahmandiv@gmail.com)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdo-elmorsi&show_icons=true&hide_border=true&rank_icon=github" alt="Abdelrahman's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-elmorsi&layout=compact&hide_border=true" alt="Most used programming languages" />
+</p>
 
 ---
 
-## Currently Working On
+## 🌍 Let's Connect
 
-* Building enterprise ERP systems
-* Advanced SaaS architecture
-* Multi-tenant scalable systems
-* Performance optimization in Next.js applications
-* Backend architecture with NestJS
-* Advanced PostgreSQL design
-
----
-
-## Philosophy
-
-I focus on building software that is:
-
-* Scalable
-* Maintainable
-* High Performance
-* Production Ready
-* Designed for long-term growth
+<p>
+  <a href="https://elmorsi.vercel.app">Portfolio</a> •
+  <a href="https://github.com/abdo-elmorsi">GitHub</a> •
+  <a href="https://linkedin.com/in/abdelrahman-a-morsi-163263205">LinkedIn</a> •
+  <a href="mailto:abdelrahmandiv@gmail.com">Email</a>
+</p>
 
 ---
 
-> Building software is not only writing code.
-> It is designing systems that survive scale.
+> I build software with a focus on architecture, performance, and maintainability — creating systems designed to grow with the businesses that depend on them.
