@@ -1,69 +1,94 @@
 # 👋 Hi, I'm Abdelrahman Elmorsi
 
-### Senior Software Engineer | React • Next.js • Node.js • NestJS
+### Senior Software Engineer | React · Next.js · TypeScript · Node.js · NestJS
 
-I'm a **Senior Software Engineer with 5+ years of experience** building web applications, enterprise platforms and SaaS products.
+Software engineer with **5+ years** building web applications, ERP platforms and multi-tenant SaaS products. I work across the stack: frontend architecture in React and Next.js, backend APIs in NestJS, and mobile apps in React Native. I have a Bachelor of Commerce in Accounting and Finance, which helps me build software around real business flows like inventory, invoicing and financial reporting.
 
-I'm a partner at **[Montalaq for Technology](https://montalaq.vercel.app)** and the founder and lead developer of **Ackura ERP**, a cloud ERP for small and medium businesses, in Arabic and English.
+I'm a partner at **Montalaq for Technology** and the founder and lead developer of **Ackura ERP**. Based in Egypt, working in Arabic and English.
 
 - 🌐 Portfolio: [elmorsi.vercel.app](https://elmorsi.vercel.app)
-- 🏢 Company: [Montalaq for Technology](https://montalaq.vercel.app)
-- 🚀 Product: [Ackura ERP](https://ackura.net)
-- 📍 Based in Egypt | Open to global opportunities
+- 💼 LinkedIn: [Abdelrahman Elmorsi](https://www.linkedin.com/in/abdelrahman-a-morsi-163263205)
+- 🏢 Company: [Montalaq for Technology](https://montalaq.vercel.app/en)
+- 📍 Egypt · Open to remote and on-site roles in Egypt, the Gulf and Europe
 
 ---
 
 ## 🔥 Featured Work
 
 ### Ackura ERP
+Multi-tenant cloud ERP built under Montalaq. Each business gets its own subdomain and isolated data.
 
-A modular, multi-tenant cloud ERP for small and medium businesses, built under Montalaq. It covers accounting, inventory, purchasing, sales, point of sale, HR, and a website and online store builder, with a mobile app for staff. I own the product and architecture and build across frontend, backend and mobile.
+- Modules: Accounting, HR, Inventory, Purchasing, POS, Assets, Logistics, plus ZATCA e-invoicing support
+- Central double-entry accounting engine shared by every module
+- Role-based access control with a resource and action permission model
+- Background jobs with BullMQ and Redis, file storage on AWS S3
+- Arabic and English interface, mobile app for staff
 
-**Stack:** Next.js, React, NestJS, PostgreSQL, Expo
+**Stack:** Next.js 15 · React 19 · NestJS 11 · PostgreSQL · TypeScript · Zustand · SWR · Redis · BullMQ · Tailwind CSS · Expo
 
-### Montalaq for Technology website
-
-Bilingual (Arabic/English) company website built with Next.js, next-intl and Tailwind CSS.
+Write-up: [Designing multi-tenant SaaS architecture with Next.js, NestJS and PostgreSQL](https://elmorsi.vercel.app/blog/designing-multi-tenant-saas-architecture-nextjs-nestjs-postgresql)
 
 ### Infinity Jewellery ERP
+ERP for gold and jewellery businesses with data-heavy screens, real-time inventory tracking and automated sales reports. Supports 500+ daily transactions.
 
-ERP for a jewellery business: inventory and high-volume daily transactions.
+### More projects
 
-### Easiser
+- **Easier**: property and tower management with tenants, payments and reporting
+- **Souk**: e-commerce store with SEO, SSR and SSG
+- **Desktop Store System**: offline-capable retail POS with inventory and sales
+- **PURE Pentab**: conversion-focused landing page with animation
+- **EnglishStu**: learning platform
+- **Montalaq website**: bilingual company site built with Next.js and Tailwind CSS
 
-Tower and property management: tenants, payments and dashboards. (React, Next.js, Node.js, MongoDB)
-
----
-
-## 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+More on the [portfolio projects page](https://elmorsi.vercel.app/projects).
 
 ---
 
 ## 💼 Experience
 
-**Founder & Lead Developer, Ackura ERP**, Montalaq for Technology
+**Senior Front End Developer, V For Technology** · 2025 to present
 
-**Senior Front End Developer, V For Technology** · 2025 – Present
+- Led micro-frontend architecture across SaaS and e-commerce products in Next.js
+- Built a shared component library and design system, cutting development cycle time by 15%
+- Ran performance work (code splitting, ISR, data fetching): up to 40% faster loads
+- Defined API contracts with backend and UX teams; led TypeScript adoption and mentored 2 junior developers
 
-**ERP Development, Infinity Jewellery** · 2022 – 2025 · Part-time
+**Founder and Lead Developer, Ackura ERP** · Montalaq for Technology
+
+- Own product, architecture and delivery across frontend, backend and mobile
+
+**Senior Front End Developer, Infinity Jewellery ERP** · 2022 to 2025 · part-time
+
+- Cut inventory management time by 25% and improved operational efficiency by 30%
+- Reduced manual errors by 20%; system ran at 99.9% uptime
+
+**Front End Developer, Marketune** · 2023
+
+**Front End Developer, Startup Defenders** · 2021 to 2023
+
+- Fleet management, CRM and car charging dashboards with React, Next.js and Firebase
+
+---
+
+## 🛠️ Tech Stack
+
+| | |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, Redux Toolkit, Zustand, SWR, Tailwind CSS, Sass, Styled Components |
+| **Backend** | Node.js, NestJS, Express, REST APIs, JWT, Prisma, TypeORM |
+| **Data** | PostgreSQL, MongoDB, SQLite, Firebase, Redis |
+| **Mobile** | React Native, Expo |
+| **Testing** | Jest, React Testing Library, Cypress |
+| **Tooling** | Git, GitHub Actions, Docker, AWS, Vercel, Postman, Swagger, Storybook |
+
+---
+
+## 🎓 Education
+
+Bachelor of Commerce, Accounting and Finance · Thebes Academy, Giza · 2019 to 2023
 
 ---
 
 ## 🌍 Let's Connect
 
-<a href="https://elmorsi.vercel.app">Portfolio</a> •
-<a href="https://github.com/abdo-elmorsi">GitHub</a> •
-<a href="https://linkedin.com/in/abdelrahman-a-morsi-163263205">LinkedIn</a> •
-<a href="mailto:abdelrahmandiv@gmail.com">Email</a>
+[Portfolio](https://elmorsi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abdelrahman-a-morsi-163263205) · [GitHub](https://github.com/abdo-elmorsi)
