@@ -6,8 +6,8 @@ Software engineer with **5+ years** building web applications, ERP platforms and
 
 I'm a partner at **Montalaq for Technology** and the founder and lead developer of **Ackura ERP**. Based in Egypt, working in Arabic and English.
 
-- 🌐 Portfolio: [elmorsi.vercel.app](https://elmorsi.vercel.app)
-- 💼 LinkedIn: [Abdelrahman Elmorsi](https://www.linkedin.com/in/abdelrahman-a-morsi-163263205)
+- 🌐 Portfolio: [elmorsi.net](https://elmorsi.net)
+- 💼 LinkedIn: [Abdelrahman Elmorsi](https://www.linkedin.com/in/abdelrahman-elmorsi-163263205)
 - 🏢 Company: [Montalaq for Technology](https://montalaq.vercel.app/en)
 - 📍 Egypt · Open to remote and on-site roles in Egypt, the Gulf and Europe
 
@@ -26,7 +26,7 @@ Multi-tenant cloud ERP built under Montalaq. Each business gets its own subdomai
 
 **Stack:** Next.js 15 · React 19 · NestJS 11 · PostgreSQL · TypeScript · Zustand · SWR · Redis · BullMQ · Tailwind CSS · Expo
 
-Write-up: [Designing multi-tenant SaaS architecture with Next.js, NestJS and PostgreSQL](https://elmorsi.vercel.app/blog/designing-multi-tenant-saas-architecture-nextjs-nestjs-postgresql)
+Write-up: [Designing multi-tenant SaaS architecture with Next.js, NestJS and PostgreSQL](https://elmorsi.net/blog/designing-multi-tenant-saas-architecture-nextjs-nestjs-postgresql)
 
 ### Infinity Jewellery ERP
 ERP for gold and jewellery businesses with data-heavy screens, real-time inventory tracking and automated sales reports. Supports 500+ daily transactions.
@@ -40,7 +40,7 @@ ERP for gold and jewellery businesses with data-heavy screens, real-time invento
 - **EnglishStu**: learning platform
 - **Montalaq website**: bilingual company site built with Next.js and Tailwind CSS
 
-More on the [portfolio projects page](https://elmorsi.vercel.app/projects).
+More on the [portfolio projects page](https://elmorsi.net/projects).
 
 ---
 
@@ -91,4 +91,4 @@ Bachelor of Commerce, Accounting and Finance · Thebes Academy, Giza · 2019 to 
 
 ## 🌍 Let's Connect
 
-[Portfolio](https://elmorsi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abdelrahman-a-morsi-163263205) · [GitHub](https://github.com/abdo-elmorsi)
+[Portfolio](https://elmorsi.net) · [LinkedIn](https://www.linkedin.com/in/abdelrahman-elmorsi-163263205) · [GitHub](https://github.com/abdo-elmorsi)
